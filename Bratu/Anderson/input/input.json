@@ -1,0 +1,8 @@
+{
+    "steps": 500,
+    "M": 50,
+    "anderM": 20,
+    "mixCoeff": 2e-5,
+    "errorTol": 1e-6,
+    "maxIters": 1e5
+}
