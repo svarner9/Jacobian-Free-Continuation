@@ -2,7 +2,7 @@
 
 This repository contains numerical routines and example problems designed to solve various nonlinear equations and models encountered in statistical mechanics and applied mathematics. The examples provided demonstrate our Jacobian-free pseudo-arclength continuation technique.
 
-If you find, this repository helpful, please cite out paper!
+If you find, this repository helpful, please cite out paper! [Varner, Balzer, Wang, _JCP_ (2024)](https://doi.org/10.1063/5.0220849)
 
 ## Folder Structure
 
