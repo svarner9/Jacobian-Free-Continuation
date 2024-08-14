@@ -7,9 +7,9 @@ $ python main.py
 A few parameters can be changed within the input file ```input/input.json```.
 ```
 {
-    "eta": 3.0,
-    "chi": -2.0,
-    "phiB0": 0.025,
+    "eta": -0.05,
+    "chi": 0.666666,
+    "phiB0": 1.0e-8,
     "steps": 350,
     "anderM": 8,
     "errorTol": 1.0e-6
