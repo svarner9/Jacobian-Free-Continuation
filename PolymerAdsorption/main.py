@@ -15,7 +15,7 @@ import argparse
 from tqdm import tqdm
 
 sys.path.append('src')
-from gsd import GroundStateDominance
+from gsdom import GroundStateDominance
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--input', type=str, help='Input file for Ising',default='input.json',required=False,dest='inputFile')
